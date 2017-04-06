@@ -144,4 +144,4 @@ if __name__ == "__main__":
     # determine confidence interval of mean sample differences with confidence
     # level of 99.9%
     ci = ci(data.Differences, .999)
-    print "99% Confidence Interval of mean differences = " + str(ci) 
+    print "99.9% Confidence Interval of mean differences = " + str(ci) 
